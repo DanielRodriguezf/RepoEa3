@@ -1,0 +1,130 @@
+{
+  "usuarios": [ 
+  ],
+  "gestores": [
+  ],
+  "eventos": [
+    {
+      "id": "1",
+      "nombre_actividad": "Hackathon de Desarrollo Web",
+      "gestor": "Ana Torres",
+      "tipo_actividad": "Concurso",
+      "sede": "Alameda",
+      "fecha": "22-10-2024",
+      "hora": "10:00",
+      "lugar": "Sala de Innovación",
+      "descripcion": "Desafío intensivo para desarrollar aplicaciones web innovadoras.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    },
+    {
+      "id": "2",
+      "nombre_actividad": "Conferencia de Inteligencia Artificial",
+      "gestor": "Pedro López",
+      "tipo_actividad": "Conferencia",
+      "sede": "Las Condes",
+      "fecha": "05-11-2024",
+      "hora": "09:30",
+      "lugar": "Auditorio Principal",
+      "descripcion": "Exploración de avances y aplicaciones de la IA en diversos campos.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    },
+    {
+      "id": "3",
+      "nombre_actividad": "Taller de Redes y Telecomunicaciones",
+      "gestor": "Carla Pérez",
+      "tipo_actividad": "Taller",
+      "sede": "Providencia",
+      "fecha": "12-11-2024",
+      "hora": "14:00",
+      "lugar": "Laboratorio 2",
+      "descripcion": "Capacitación en tecnologías de redes y telecomunicaciones modernas.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    },
+    {
+      "id": "4",
+      "nombre_actividad": "Seminario de Ciberseguridad",
+      "gestor": "Javier Silva",
+      "tipo_actividad": "Seminario",
+      "sede": "Santiago Centro",
+      "fecha": "18-11-2024",
+      "hora": "11:00",
+      "lugar": "Sala de Conferencias",
+      "descripcion": "Seminario sobre los últimos avances en ciberseguridad y protección de datos.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    },
+    {
+      "id": "5",
+      "nombre_actividad": "Competencia de Programación",
+      "gestor": "Lucía Fernández",
+      "tipo_actividad": "Concurso",
+      "sede": "Ñuñoa",
+      "fecha": "25-11-2024",
+      "hora": "10:30",
+      "lugar": "Aula Magna",
+      "descripcion": "Competencia en tiempo real para resolver problemas algorítmicos.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    },
+    {
+      "id": "6",
+      "nombre_actividad": "Workshop de Big Data",
+      "gestor": "Carlos Mendoza",
+      "tipo_actividad": "Workshop",
+      "sede": "San Miguel",
+      "fecha": "03-12-2024",
+      "hora": "13:00",
+      "lugar": "Sala de Innovación",
+      "descripcion": "Taller práctico sobre el manejo y análisis de grandes volúmenes de datos.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    },
+    {
+      "id": "7",
+      "nombre_actividad": "Jornada de Innovación Tecnológica",
+      "gestor": "Valeria Soto",
+      "tipo_actividad": "Jornada",
+      "sede": "La Florida",
+      "fecha": "10-12-2024",
+      "hora": "09:00",
+      "lugar": "Auditorio Principal",
+      "descripcion": "Día completo dedicado a la innovación en el desarrollo de nuevas tecnologías.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    },
+    {
+      "id": "8",
+      "nombre_actividad": "Feria de Tecnología 2024",
+      "gestor": "Rodrigo Vargas",
+      "tipo_actividad": "Feria",
+      "sede": "Vitacura",
+      "fecha": "17-12-2024",
+      "hora": "10:00",
+      "lugar": "Centro de Convenciones",
+      "descripcion": "Exhibición de los últimos avances en software, hardware y telecomunicaciones.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    },
+    {
+      "id": "9",
+      "nombre_actividad": "Charla sobre Transformación Digital",
+      "gestor": "Camila Ríos",
+      "tipo_actividad": "Charla",
+      "sede": "Maipú",
+      "fecha": "20-12-2024",
+      "hora": "15:00",
+      "lugar": "Sala de Conferencias",
+      "descripcion": "Charla enfocada en la transformación digital y su impacto en los negocios.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    },
+    {
+      "id": "10",
+      "nombre_actividad": "Encuentro de Desarrolladores Mobile",
+      "gestor": "Mauricio Castillo",
+      "tipo_actividad": "Encuentro",
+      "sede": "Recoleta",
+      "fecha": "22-12-2024",
+      "hora": "11:00",
+      "lugar": "Aula Tecnológica",
+      "descripcion": "Reunión para discutir tendencias y mejores prácticas en desarrollo de aplicaciones móviles.",
+      "foto": "https://www.duoc.cl/wp-content/uploads/2023/07/DSC_4830.jpg"
+    }
+  ],
+  "inscripcion": [
+  ]
+}
